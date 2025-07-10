@@ -73,7 +73,7 @@
 }
 
 .action-description{
-    color: #25243285;
+    color: #25243280;
     width: 517px;
     font-size: 24px;
     font-weight: normal;
@@ -85,5 +85,43 @@
 .action-img img{
     border-radius: 48px;
 }
-
 /* action section end */
+
+
+
+
+
+
+
+
+
+
+
+
+/* users section start */
+
+.users-content{
+    padding: 50px 80px;
+    background-color: #4e47ff1a;
+    border-radius: 24px;
+    text-align: center;
+    margin-bottom: 137px;
+}
+.users-heading{
+    font-size: 38px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.users-description{
+    display: flex;
+    justify-content: space-between;
+    /* text-align: center; */
+}
+.p-user-heading{
+    font-size: 80px;
+    font-weight: 700;
+}
+.p-user-description{
+    color: #00000080;
+}
+/* users section end */
