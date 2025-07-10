@@ -56,3 +56,34 @@
     padding: 158px 0 200px 0;
 }
 /* banner section end */
+
+/* action section start */
+.action{
+    margin: 116px 0;
+}
+.action .action-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.action-heading{
+    color: #252432;
+    font-size: 42px;
+    font-weight: 700;
+}
+
+.action-description{
+    color: #25243285;
+    font-size: 24px;
+    font-weight: normal;
+    margin: 23px 0;
+}
+.action-img{
+    height: 328px;
+}
+.action-img img{
+    border-radius: 48px;
+    height: fit-content;
+}
+
+/* action section end */
