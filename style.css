@@ -116,6 +116,9 @@
 /* users section end */
 
 /* review section start */
+.review-content{
+    margin-bottom: 137px;
+}
 .review-heading{
     font-weight: 700;
     font-size: 42px;
@@ -171,6 +174,32 @@
     font-size: 16px;
 }
 /* review section end */
+
+/* better section start */
+
+.better-content{
+    padding: 71px 150px;
+    background-color: #fff;
+    border-radius: 14px;
+    text-align: center;
+}
+.better-content img{
+    border-radius: 48px;
+    margin-top: 20px;
+}
+.better-heading{
+    font-size: 50px;
+    font-weight: 700;
+    color: #000000;
+}
+.better-description{
+    font-size: 16px;
+    margin: 20px 0;
+    font-weight: normal;
+    color: rgba(0, 0, 0, 0.5);
+}
+/* better section end */
+
 /* get in touch start*/
 .getintouch{
     margin-top: 92.23px;
